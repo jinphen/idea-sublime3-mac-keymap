@@ -12,3 +12,7 @@ This keymap base on keymap Mac OS X 10.5+
 - cmd d
 - cmd shift d
 - cmd p
+
+### Install
+
+copy SublimeText3.xml to ~/Library/Preferences/IntelliJIdea2016.1/keymaps/
